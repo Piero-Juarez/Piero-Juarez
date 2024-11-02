@@ -1,6 +1,6 @@
-¡Hola! Me llamo <strong>Piero Juarez<strong> 👋
+<strong>¡Hola! Me llamo Piero Juarez 👋
 Me interesa convertirme en uno de los mejores programadores móviles de Android y desarrollo Back-End con Java 👀
-Me encuentro estudiando todo lo relacionado a Jetpack Compose y Spring Framework🌱
+Me encuentro estudiando todo lo relacionado a Jetpack Compose y Spring Framework🌱<strong>
 
 ----- MIS HABILIDADES -----
 
