@@ -16,17 +16,6 @@ Tecnologías / Frameworks:
 - HTML5 & CSS3
 - WordPress
 - Java Swing
-- Firebase (en aprendizaje)
-- Spring Framework & Spring Boot (en aprendizaje)
-
-Software que uso:
-- Android Studio
-- IntelliJ IDEA Ultimate
-- WebStorm
-- Visual Studio Code
-- SQL Server Management Studio 20
-- SQLite Browser
-- Oracle VirtualBox
 
 <!---
 Piero-Juarez/Piero-Juarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
